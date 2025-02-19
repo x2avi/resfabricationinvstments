@@ -3,8 +3,7 @@
 
 To go with the latest version please copy and past in your terminal the following steps: 
 
-```bash
-git clone https://github.com/K-H-Rayhan/nextjs-animated-slider.git
+
 ```
 
 Run the development server:
