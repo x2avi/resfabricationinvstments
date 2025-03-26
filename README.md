@@ -24,7 +24,7 @@ yarn build && yarn start
 # or
 pnpm build && yarn start
 ```
-
+NB still working on the responsiveness desktop view prefered...
 ## 🤝 Contributing
 
 Let’s create great products together! We encourage and welcome collaboration and any type of contribution.
